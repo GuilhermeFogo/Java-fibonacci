@@ -1,2 +1,2 @@
 # Java-fibonacci
-Seja benvindo(a),execulte usando o cmd
+Seja Bem-Vindo(a),execulte usando o cmd
