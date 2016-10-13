@@ -1,2 +1,2 @@
 # Java-fibonacci
-Seja Bem-Vindo(a),execulte usando o cmd
+use um Ctrl c e Ctrl v , na IDE eclipse e execulte-a no prompt de comando 
